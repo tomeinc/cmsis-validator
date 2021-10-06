@@ -1,6 +1,7 @@
 # CMSIS Annotation Validator
 
-Please note this doesn't work yet
+The code doesn't work, but a jar was somehow produced that kinda works.
+I don't remember how I did it.
 
 
 The Nordic [nRF5 SDK](https://www.nordicsemi.com/Software-and-tools/Software/nRF5-SDK)
